@@ -26,6 +26,8 @@ const App = function () {
           <ImageComponent url="https://placekitten.com/200" alt="cat-1" />
           <ImageComponent url="https://placekitten.com/300" alt="cat-2" />
           <ImageComponent url="https://placekitten.com/500" alt="cat-3" />
+          <ImageComponent url="https://placekitten.com/700" alt="cat-4" />
+          <ImageComponent url="https://placekitten.com/900" alt="cat-5" />
         </div>
       </main>
     </div>
