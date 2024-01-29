@@ -8,7 +8,15 @@ const App = function () {
     <div className="App">
       <main className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>U3-W1-D1 - First React App</p>
+        <p className="mb-0">U3-W1-D1 - First React App</p>
+        <p className="mt-0">
+          <a
+            href="https://github.com/kaem0n/epicode-U3-W1-D1"
+            className="App-link"
+          >
+            Link to GitHub Repository
+          </a>
+        </p>
         <div className="flex-mantra">
           <ButtonComponent text="First" />
           <ButtonComponent text="Second" />

@@ -51,7 +51,6 @@
   background-color: #61dafb;
   font-size: 1.2rem;
   padding: 1rem 1.5rem;
-  border-radius: 10px;
   cursor: pointer;
   transition: 500ms;
 }
@@ -59,4 +58,16 @@
 .custom-button:hover {
   background-color: #78e2ff;
   transition: 500ms;
+}
+
+.mb-0 {
+  margin-bottom: 0;
+}
+
+.mt-0 {
+  margin-top: 0;
+}
+
+.rounded {
+  border-radius: 10px;
 }
